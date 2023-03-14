@@ -1,0 +1,376 @@
+* {
+    
+     
+     font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+
+.navbar {
+    display: flex;
+    margin-left: 250px;
+    height: 30px;
+}
+
+p {
+    padding-left: 40px;
+    font-size: 14px;
+}
+
+.first-img {
+    width: 16px;
+    height: 16px;
+    padding-top: 14px;
+}
+
+
+.search {
+    width: 16px;
+    height: 16px;
+    padding-top: 14px;
+    padding-left: 40px;
+}
+
+.shopping {
+    width: 16px;
+    height: 16px;
+    padding-top: 14px;
+    padding-left: 40px;
+}
+
+.sidebar {
+    height: 50px;
+    background-color: rgb(235, 235, 235);
+  
+}
+
+h4 {
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 14px;
+}
+
+
+.iphone {
+    width: auto;
+    height: 100%;
+    max-width: none;
+    max-height: 900px;
+    max-width: 800px;
+    display: block;
+    border-radius: 18px;
+    margin-left: 150px;
+    position: sticky;
+    margin-top: 150px;
+    bottom: 0;
+}
+
+
+.New {
+    color: orange;
+    margin-left: 114px;
+    font-size: 17px;
+
+
+
+}
+
+
+.buy {
+    margin-left: 150px;
+    font-size: 40px;
+}
+
+.credit {
+    margin-left: 113px;
+   
+}
+
+.second-block {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+      right: 10px;
+    position: absolute;
+    top: 100px;
+}
+
+
+.trade-in {
+    margin-top: 60px;
+    margin-right: 100px;
+    background-color: rgb(235, 235, 235);
+    height: 30px;
+    padding-top: 10px;
+    padding-right: 25px;
+    border-radius: 18px;
+}
+
+.Apple-Card {
+    margin-right: 100px;
+    background-color: rgb(235, 235, 235);
+    height: 30px;
+    padding-top: 10px;
+    padding-right: 25px;
+    border-radius: 18px;
+}
+
+
+.model {
+    display: flex;
+    position: relative;
+    right: 420px;
+    font-size: 24px;
+}
+
+.yet {
+    display: flex;
+    position: relative;
+    right: 173px;
+    font-size: 24px;
+    bottom: 28px;
+    color: rgb(208, 208, 208);
+}
+
+
+.iphone-14pro {
+    width: 380px;
+    height: 100px;
+    border: 2px solid rgb(0, 102, 255);
+    border-radius: 12px;
+    margin-right: 105px;
+}
+
+.trade {
+    width: 80px;
+    font-size: 12px;
+    color: gray;
+    height: 35px;
+     margin-left: 240px;
+     margin-top: -96px;
+}
+
+
+.pro { 
+    font-size: 20px;
+    position: relative;
+    right: 18px;
+}
+
+.display {
+    position: relative;
+    right: 18px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+.iphone-14promax {
+    width: 380px;
+    height: 100px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    margin-right: 105px;
+    margin-top: 15px;
+} 
+
+
+.pro-max {
+    font-size: 20px;
+    position: relative;
+    right: 18px;
+}
+
+
+.displaytwo {
+    position: relative;
+    right: 18px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+
+.trade2 {
+    width: 80px;
+    font-size: 12px;
+    color: gray;
+    height: 35px;   
+    margin-left: 240px;
+    margin-top: -90px;
+}
+
+.choosing {
+    width: 380px;
+    height: 80px;
+    border-radius: 12px;
+    background-color:rgb(219, 219, 219) ;
+    margin-right: 110px;
+    margin-top: 15px;
+}
+
+
+.chosing-model {
+font-weight: 500;
+margin-right: 10px ;
+}
+
+
+.color {
+    margin-right: 230px;
+    margin-top: 40px;
+}
+
+
+.color-choose {
+    font-size: 28px;
+
+}
+
+.favorite {
+    font-size: 28px;
+    color: gray;
+    margin-bottom: 50px;
+    position: relative; 
+    left: 100px;
+    bottom: 60px;
+}
+
+
+.suu {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+}
+
+.gold {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+
+}
+
+.white {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+}
+
+.black {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+}
+
+ 
+
+.space {
+    margin-right: 20px;
+    margin-bottom: 30px;
+    
+}
+
+.space-choose {
+    font-size: 28px;
+    margin-left: -40px;
+}
+
+
+.space-two {
+    font-size: 28px;
+    color: gray;
+    margin-bottom: 50px;
+    position: relative; 
+    left: 110px;
+    bottom: 60px;
+    margin-left: -48px;
+    width: 235px;
+}
+
+
+ .GB {
+    width: 380px;
+    height: 100px;
+    border: 2px solid rgba(0, 0, 0, 0.293);
+    border-radius: 12px;
+    margin-right: 105px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 76px;
+ }
+
+
+ .space-128 {
+    font-size: 20px;
+    position: relative;
+    right: 18px;  
+    top: 20px;
+ }
+
+ .see {
+    width: 80px;
+    font-size: 12px;
+    color: gray;
+    height: 35px;   
+    margin-left: 240px;
+    margin-top: -50px;
+ }
+
+
+ .purple {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+    background-color: rgb(73, 45, 73);
+    border-radius: 16px;
+ }
+
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 13px;
+    padding-left: 25px;
+}
+ .gold {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+    background-color: rgb(224, 227, 37);
+    border-radius: 16px;
+ }
+
+
+ .white {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 16px;
+ }
+
+
+ .black {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 16px;
+ }
